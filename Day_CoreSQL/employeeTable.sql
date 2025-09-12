@@ -1,5 +1,4 @@
-**This is the query used to add the initial table to the database**
-
+--This is the query used to add the initial table to the database
   
 CREATE TABLE employees (
 	id SERIAL PRIMARY KEY,
